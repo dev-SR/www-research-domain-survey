@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import Link from 'next/link';
 import fsPromises from 'fs/promises';
 import path from 'path';
