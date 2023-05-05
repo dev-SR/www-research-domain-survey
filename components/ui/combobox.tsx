@@ -47,7 +47,7 @@ export function Combobox({
 					variant='outline'
 					role='combobox'
 					aria-expanded={open}
-					className='justify-between w-[250px] md:w-[300px]'
+					className='justify-between w-full md:w-[300px]'
 					// style={{
 					// 	width: width ? `${width}px` : '448px'
 					// }}
@@ -57,7 +57,7 @@ export function Combobox({
 				</Button>
 			</PopoverTrigger>
 			<PopoverContent
-				className={cn('p-0', 'w-[250px] md:w-[300px]')}
+				className={cn('p-0', 'w-[430px] md:w-[300px]')}
 				// width style
 				// style={{
 				// 	width: width ? `${width}px` : '448px'

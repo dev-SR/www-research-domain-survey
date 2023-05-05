@@ -105,7 +105,7 @@ export default async function Home({ searchParams }: SearchParamProps) {
 			{!searchParams.author && (
 				<div className='h-full w-full flex items-center justify-center my-auto'>
 					<div className='w-full flex flex-col space-y-4 items-center px-4 md:p-52'>
-						<h1 className='font-extrabold text-3xl'>
+						<h1 className='font-extrabold text-3xl text-primary'>
 							Research Area/Index/Domain Identification of a Researcher
 						</h1>
 						<p className='md:text-center'>

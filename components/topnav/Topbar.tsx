@@ -14,6 +14,8 @@ import {
 	SelectTrigger,
 	SelectValue
 } from '../ui/select';
+import { GithubIcon, HomeIcon } from 'lucide-react';
+import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '../ui/tooltip';
 
 const Topbar = ({ data = [] }: { data: ComboboxDataType[] }) => {
 	const [author, setAuthor] = React.useState('');
@@ -33,30 +35,54 @@ const Topbar = ({ data = [] }: { data: ComboboxDataType[] }) => {
 	}
 
 	return (
-		<div className='flex w-full h-16 items-center px-10 space-x-4'>
-			<Combobox
-				data={data}
-				inputPlaceholder='Search author name'
-				notFoundText='No author found'
-				setValue={setAuthor}
-				value={author}
-				triggerText='Select an author'
-				width={300}
-			/>
-			<Select onValueChange={handleVersionValueChange}>
-				<SelectTrigger className='w-[180px]'>
-					<SelectValue placeholder='Data versions' />
-				</SelectTrigger>
-				<SelectContent>
-					<SelectGroup>
-						<SelectLabel>Different versions</SelectLabel>
-						<SelectItem value='Native th0.3'>Native th0.3</SelectItem>
-						<SelectItem value='Fine Tune th0.5'>Fine Tune th0.5</SelectItem>
-					</SelectGroup>
-				</SelectContent>
-			</Select>
+		<div className='flex w-full flex-col sm:flex-row px-10 justify-center pt-4 space-y-4 sm:space-y-0 sm:space-x-4'>
+			<div className='flex-1  flex items-center  space-x-4 w-full'>
+				<div className='cursor-pointer' onClick={() => router.push('/')}>
+					<HomeIcon className='w-6 h6 hover:text-primary' />
+				</div>
+				<TooltipProvider>
+					<Tooltip>
+						<TooltipTrigger className='[data-state="instant-open"]'>
+							<a
+								target='_blank'
+								href='https://github.com/dev-SR/www-research-domain-survey'
+								rel='noopener noreferrer'>
+								<GithubIcon className='w-6 h6 hover:text-primary' />
+							</a>
+						</TooltipTrigger>
+						<TooltipContent className='[data-state="instant-open"]'>
+							<p>Edit on github</p>
+						</TooltipContent>
+					</Tooltip>
+				</TooltipProvider>
+			</div>
+			<div className='flex flex-col sm:flex-row  items-center space-y-4 sm:space-y-0 sm:space-x-4'>
+				<Combobox
+					data={data}
+					inputPlaceholder='Search author name'
+					notFoundText='No author found'
+					setValue={setAuthor}
+					value={author}
+					triggerText='Select an author'
+					width={300}
+				/>
+				<Select onValueChange={handleVersionValueChange}>
+					<SelectTrigger className='w-full md:w-[180px]'>
+						<SelectValue placeholder='Data versions' />
+					</SelectTrigger>
+					<SelectContent>
+						<SelectGroup>
+							<SelectLabel>Different versions</SelectLabel>
+							<SelectItem value='Native th0.3'>Native th0.3</SelectItem>
+							<SelectItem value='Fine Tune th0.5'>Fine Tune th0.5</SelectItem>
+						</SelectGroup>
+					</SelectContent>
+				</Select>
 
-			<Button onClick={handleClick}>Show Graph</Button>
+				<Button onClick={handleClick} className='w-full sm:w-[150px]'>
+					Show Graph
+				</Button>
+			</div>
 		</div>
 	);
 };
