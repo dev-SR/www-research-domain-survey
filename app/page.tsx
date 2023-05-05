@@ -47,7 +47,7 @@ async function getDomainData(params: Record<string, any>) {
 				type: 'graphin-circle',
 				style: {
 					keyshape: {
-						size: 10,
+						size: 20,
 						stroke: '#4338ca',
 						fill: '#4338ca',
 						fillOpacity: 0.2
@@ -58,7 +58,18 @@ async function getDomainData(params: Record<string, any>) {
 						offset: [20, 5]
 						// fill: 'black',
 						// fillOpacity: 0.6
-					}
+					},
+					badges: [
+						{
+							position: 'RT',
+							type: 'text',
+							value: Math.round(objectData.find((d) => d.neighbor == node)?.neighbor_year!!),
+							color: '#4338ca',
+							size: [0, 0],
+							fontSize: 8,
+							offset: [10, 0]
+						}
+					]
 				}
 			}));
 
