@@ -1,0 +1,503 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),convers transmiss line,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc line system,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl acdc,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl transmiss line,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load capabl,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power transmiss,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power transmiss,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl transmiss,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),load capabl,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),capabl acdc system,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system behavior,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,transmiss system load,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),model paper power,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,transmiss system behavior,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,capabl acdc system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,capabl transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,power transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,model paper power,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,acdc power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,transmiss system,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,power transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,system load capabl,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,load capabl acdc,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,transmiss line,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,load capabl transmiss,1,0.0,2014.0,,0bcfac34-36d8-4dbf-8d01-adeed704dc0b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss system load,system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil system system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil power,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,power system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system,blackout power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc power,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system analysi,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system system,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,system stabil,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil power,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,power transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,acdc power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,stabil power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,acdc power transmiss,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,transmiss system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,stabil system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,power system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,system system analysi,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,system stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,system system,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system stabil,stabil power,1,0.0,2014.0,,4d9bebfc-912d-4bad-80fc-d082f72c90e2
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system inconveni,power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system inconveni,power system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system inconveni,blackout power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system inconveni,system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system inconveni,power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power system inconveni,blackout power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),blackout power system,system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),blackout power system,power system,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),blackout power system,power system inconveni,1,0.0,2016.0,,43c27881-fb3c-4f9c-bb17-a56d63350976
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line system stabil,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transmiss line acdc,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),acdc transmiss system,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line acdc line,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,stabil analysi acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system transmiss line,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,acdc transmiss system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,convers transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,transmiss line acdc,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,line system stabil,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,system transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,transmiss line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,acdc line system,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),stabil analysi acdc,line acdc line,1,0.0,2017.0,,495be4d8-ad97-47b3-8c16-d5f987f78ac3
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,capabl transmiss line,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,load capabl,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,transmiss system,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,power transmiss,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,transmiss system load,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,system load capabl,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,transmiss line,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),system load,load capabl transmiss,1,0.0,2018.0,,b75e6e50-2f1c-4126-8791-6e75327cff53
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power system energi,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),equip power system,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi voltag,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),system energi,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,transform equip power,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),power transform equip,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,power transform,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,equip power system,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,system energi voltag,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,power system energi,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Digital Libraries(50.43%) | Systems and Control(45.05%) | Operating Systems(44.07%),transform equip power,power transform equip,1,0.0,2012.0,,26ec39dc-a37d-40ef-ad33-00d7dafa2799
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss,gener line,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss,line resist,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss,transmiss line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss,line transmiss loss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),gener line,line resist,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),gener line,transmiss line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),gener line,line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),gener line,line transmiss loss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line resist,gener line,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line resist,transmiss line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line resist,line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line resist,line transmiss loss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss loss,gener line,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss loss,line resist,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss loss,transmiss line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),line transmiss loss,line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),transmiss line transmiss,gener line,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),transmiss line transmiss,line resist,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),transmiss line transmiss,line transmiss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Cryptography and Security(64.72%) | General Literature(64.1%) | Computer Vision and Pattern Recognition(47.85%),transmiss line transmiss,line transmiss loss,1,0.0,2011.0,,0dfae3aa-425f-4755-b098-af9f835fa93b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line,power flow,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line,flow line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line,line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line,power flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow,flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow,flow line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow,line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow,power flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line compens,power flow,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line compens,flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line compens,flow line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),line compens,power flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line compens,power flow,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line compens,flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line compens,line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),flow line compens,power flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow line,power flow,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow line,flow line,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow line,flow line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power flow line,line compens,1,0.0,2016.0,,1a222ab8-2db4-4ff6-a7ef-73ddb505b37b
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform power gener,power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform power gener,oil degrad,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform power gener,transform oil insul,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power gener,oil degrad,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power gener,transform power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),power gener,transform oil insul,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),oil degrad,power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),oil degrad,transform power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),oil degrad,transform oil insul,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform oil insul,power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform oil insul,oil degrad,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9
+Systems and Control(90.41%) | Information Theory(71.9%) | Neural and Evolutionary Computing(65.91%),transform oil insul,transform power gener,1,0.0,2012.0,,9c878e74-9b2f-4b65-be72-f7a59c7fbae9

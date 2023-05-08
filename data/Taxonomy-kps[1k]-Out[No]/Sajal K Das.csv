@@ -1,0 +1,629 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),forc microscop,tube scanner pt,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),forc microscop,tube scanner,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,tube scanner pt,1,0.0,2012.0,,91ea42b8-ce35-4fef-b711-c5e27bd6938e
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,control tube scanner,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,veloc feedback control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,paper design control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,control control veloc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,paper design implement,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,control mode tube,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt forc,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,scanner pt forc,1,0.0,2012.0,,91ea42b8-ce35-4fef-b711-c5e27bd6938e
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,tube scanner,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,forc microscop,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,control tube scanner,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,veloc feedback control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,paper design control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,control control veloc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,paper design implement,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,reson control,1,0.0,2014.0,,6b3e0fac-c6d7-45ef-abb1-a4c69fbe89c6
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,control mode tube,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner pt,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,tube scanner pt,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,forc microscop,1,0.0,2012.0,,2305934a-a2f7-4e0f-aa81-9af9b569fc27
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,scanner pt forc,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,design implement control,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,control tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,paper design implement,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,reson control,1,0.0,2014.0,,6b3e0fac-c6d7-45ef-abb1-a4c69fbe89c6
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,control mode tube,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),tube scanner,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,multioutput control control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,paper design implement,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,veloc feedback control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,scanner pt forc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control control veloc,tube scanner pt,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,multioutput control control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,control control veloc,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,paper design implement,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,scanner pt forc,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,control tube scanner,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,tube scanner pt,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,paper design control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),veloc feedback control,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multioutput control control,control control veloc,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multioutput control control,paper design implement,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multioutput control control,veloc feedback control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,multioutput control control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,control control veloc,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,veloc feedback control,1,0.0,2013.0,,f961d451-e0c9-4dbe-acb1-d94b11a38fa4
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,scanner pt forc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,tube scanner pt,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,control tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,power factor system,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design implement,power factor,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,scanner pt forc,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,control tube scanner,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,tube scanner pt,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,veloc feedback control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design control,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,scanner pt forc,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,tube scanner pt,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,veloc feedback control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,paper design control,1,0.0,2013.0,,34e7cd05-7336-4ab4-840d-53277b1907e0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,design implement control,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,paper design implement,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control tube scanner,tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,scanner pt forc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,design implement control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,veloc feedback control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,tube scanner pt,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,control control veloc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),architectur control control,paper design implement,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,architectur control control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,scanner pt forc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,veloc feedback control,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,tube scanner pt,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,control control veloc,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,paper design implement,1,0.0,2013.0,,92634ca1-8bd7-477a-a577-2123c255dc74
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,control tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,paper design,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement control,tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control simulink,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,feedback control,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,scanner pt forc,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,design implement control,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,tube scanner pt,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,paper design implement,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,tube scanner,1,0.0,2013.0,,69b14c5c-ada1-4ae5-b9ed-228536cf6186
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control speed control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control speed,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,linear control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,paper design feedback,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,pid control,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,load dynam,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,power factor system,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,power factor,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,model control mpc,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,time model control,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design,control oper,1,0.0,2020.0,,ee3f095d-1ce4-4b90-b0ac-1e84bc22b9f1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control simulink,feedback control,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control simulink,paper design,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),feedback control,control simulink,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),feedback control,paper design,1,0.0,2011.0,,17e560d4-6a5f-493e-956b-cd64f9843294
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,scanner pt forc,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,tube scanner pt,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,paper design,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,paper design implement,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,tube scanner,1,0.0,2013.0,,97765de9-74cb-466b-8178-45e223b55217
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,control mode tube,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,power factor system,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design implement,power factor,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),reson control,tube scanner pt,1,0.0,2014.0,,6b3e0fac-c6d7-45ef-abb1-a4c69fbe89c6
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),reson control,tube scanner,1,0.0,2014.0,,6b3e0fac-c6d7-45ef-abb1-a4c69fbe89c6
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,design implement,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,tube scanner pt,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,scanner pt forc,1,0.0,2014.0,,a07c4868-d86a-4ba4-9331-cf51171a8496
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,tube scanner,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control mode tube,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,control mode tube,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,scanner pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,tube scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,tube scanner,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),scanner pt,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,control mode tube,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,scanner pt forc,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,tube scanner pt,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,tube scanner,1,0.0,2014.0,,01913c4c-1d0d-421d-bf34-5c94025e8edf
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pt forc,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,control mode tube,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,design control framework,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,scanner pt forc,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,scanner pt,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,tube scanner pt,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,pt forc,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,tube scanner,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,control mode tube,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,design control,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,scanner pt forc,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,scanner pt,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,tube scanner pt,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,pt forc,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control framework,tube scanner,1,0.0,2015.0,,79c1e8b9-6558-453b-b148-8275f1e2a1ef
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design feedback,paper design,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design feedback,control speed control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design feedback,control speed,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design feedback,linear control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed control,paper design,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed control,control speed,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed control,linear control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed control,paper design feedback,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),linear control,paper design,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),linear control,control speed control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),linear control,control speed,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),linear control,paper design feedback,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed,paper design,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed,control speed control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed,linear control,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control speed,paper design feedback,1,0.0,2016.0,,eb473c7e-1fe7-4bb8-988e-4234ebd44301
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,control voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control,state control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,control voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag control microgrid,state control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,control voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load,voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,control voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load load load,voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,design control voltag,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control microgrid,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,voltag control microgrid,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,voltag control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,load load load,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,paper design,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design control voltag,paper design control,1,0.0,2017.0,,5dfcf3de-7059-460a-abde-a9670cf797a1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper design model,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,system condit,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,paper control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,paper ilqg control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,control perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,voltag control microgrid,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,control voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag,state control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform microgrid,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control voltag,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),design model control,model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,model control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,design model control,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,control voltag,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,paper design,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,paper design model,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control,perform microgrid,1,0.0,2017.0,,53f8e173-a694-4fe6-8a75-50cb442b00ba
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pid control,load dynam,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),pid control,paper design,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,pid control,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,paper design,1,0.0,2017.0,,6cf002b6-5e6d-4beb-9f6e-a0c32267a15b
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,system condit,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,refer control paper,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,control paper,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,paper voltag,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,control paper voltag,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),load dynam,energi sourc,1,0.0,2021.0,,bb5b16cb-6276-408b-9477-cd05b0fa8e05
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,voltag control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag control,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,voltag control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,system condit,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,load dynam,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,ilqg control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,voltag microgrid,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper,ilqg control,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,voltag control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,system condit,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,load dynam,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,ilqg control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,voltag microgrid,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper voltag,ilqg control,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,voltag control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,refer control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,system condit,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,load dynam,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,ilqg control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,voltag microgrid,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control paper voltag,ilqg control,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,voltag control microgrid,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,paper voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,control paper,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,voltag control,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,control paper voltag,1,0.0,2018.0,,34a2585a-4e04-4ba9-a734-821d4e914d9d
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,system condit,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),refer control paper,load dynam,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,refer control paper,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,control paper,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,paper voltag,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,load dynam,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,control paper voltag,1,0.0,2018.0,,ff3e3d65-2e68-4f7c-9fb5-94568d17eac0
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,paper control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,control voltag,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,paper ilqg control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system condit,control perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform system,system condit,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform system,paper control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform system,control voltag,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform system,paper ilqg control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),perform system,control perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,system condit,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,paper control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,control voltag,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,control perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,control approach,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,paper ilqg,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,ilqg control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg control,control design frequenc,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control perform system,system condit,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control perform system,paper control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control perform system,control voltag,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control perform system,perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control perform system,paper ilqg control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper control,system condit,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper control,control voltag,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper control,perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper control,paper ilqg control,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper control,control perform system,1,0.0,2018.0,,416bc503-cb0c-4376-af21-cc463078c6e8
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,control voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,load load load,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,load load,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,ilqg control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,control paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag microgrid,ilqg control,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag microgrid,load load load,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag microgrid,load load,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag microgrid,voltag microgrid,1,0.0,2018.0,,f6ff2008-2925-4385-b7b3-7583d9585106
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,control approach,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,paper ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,ilqg control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper ilqg,control design frequenc,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,control approach,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,paper ilqg,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,paper ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,ilqg control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,voltag microgrid,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,control paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,ilqg control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control,control design frequenc,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control approach,paper ilqg,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control approach,ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control approach,paper ilqg control,1,0.0,2018.0,,d9acd504-9ba7-4ccc-9264-3af9ccb658dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),state control voltag,voltag control microgrid,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),state control voltag,control voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),state control voltag,voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),state control voltag,control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag control,voltag control microgrid,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag control,voltag control,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag control,control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control voltag control,state control voltag,1,0.0,2019.0,,c94e7111-851a-47e4-aebb-77e4b5137075
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor system,design implement,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor system,paper design,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor system,power factor,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor system,paper design implement,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor,power factor system,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor,design implement,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor,paper design,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power factor,paper design implement,1,0.0,2019.0,,ba962627-aae6-4a0e-9596-4b98e892618c
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),time model control,model control mpc,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),time model control,paper design,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control mpc,paper design,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),model control mpc,time model control,1,0.0,2019.0,,0712f344-09b5-49d0-858d-6540ff3a0da2
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control paper,voltag microgrid,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control paper,control paper,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control paper,paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control paper,control paper voltag,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control paper,ilqg control,1,0.0,2019.0,,0f3948aa-8692-4ef0-8f43-d4a8ca7fcb11
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design,paper ilqg,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design,ilqg control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design,paper ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design,control design frequenc,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design,ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design frequenc,paper ilqg,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design frequenc,control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design frequenc,ilqg control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design frequenc,paper ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control design frequenc,ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control design,paper ilqg,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control design,control design,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control design,paper ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control design,control design frequenc,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),ilqg control design,ilqg control,1,0.0,2019.0,,3db65514-76aa-4439-9922-2f82a84bc150
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),control oper,paper design,1,0.0,2020.0,,ee3f095d-1ce4-4b90-b0ac-1e84bc22b9f1
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper fault detect,fault detect classif,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper fault detect,classif fdc,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper fault detect,fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),paper fault detect,transmiss line,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),voltag transmiss line,transmiss line,1,0.0,2020.0,,b4a1b90f-1ccf-4bc8-90ac-78c176de2567
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,energi power system,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,power transmiss line,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,voltag transmiss line,1,0.0,2020.0,,b4a1b90f-1ccf-4bc8-90ac-78c176de2567
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,power network,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,fault analysi,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,power system gener,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,fault detect classif,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,classif fdc,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line,paper fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss line,transmiss line,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss line,energi power system,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss line,power transmiss,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss line,fault power,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),energi power system,transmiss line,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),energi power system,power transmiss line,1,0.0,2019.0,,b2ae9982-1903-449a-a90c-980cc5b3c046
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system gener,transmiss line,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system gener,power network,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system gener,fault analysi,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault analysi,transmiss line,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault analysi,power network,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault analysi,power system gener,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power network,transmiss line,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power network,fault analysi,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power network,power system gener,1,0.0,2021.0,,95590d43-dcf6-4a9d-a964-7bf71022a03f
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),detect classif,fault detect classif,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),detect classif,fault detect,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),detect classif,power convert,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,fault detect classif,1,0.0,2020.0,,2badcb4d-a838-444a-b5f3-6e37e3e0aead
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,detect classif,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,power convert,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,classif fdc,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,paper fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect,transmiss line,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,fault detect,1,0.0,2020.0,,2badcb4d-a838-444a-b5f3-6e37e3e0aead
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,detect classif,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,power convert,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,classif fdc,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,paper fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault detect classif,transmiss line,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power convert,fault detect classif,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power convert,detect classif,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power convert,fault detect,1,0.0,2020.0,,8c2f570a-c07c-432c-b54e-15d0eb7e76dc
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),transmiss line fault,classif fdc,1,0.0,2020.0,,9c76c65c-9a39-401b-8c47-fda0670cb368
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),classif fdc,transmiss line fault,1,0.0,2020.0,,9c76c65c-9a39-401b-8c47-fda0670cb368
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),classif fdc,fault detect classif,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),classif fdc,fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),classif fdc,paper fault detect,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),classif fdc,transmiss line,1,0.0,2021.0,,3019f853-5983-4e0f-aab0-1bf9ae86ff87
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss,power transmiss line,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power transmiss,fault power,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,fault power system,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,power system,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,oper power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,system fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,power system fault,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,power transmiss,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power,power transmiss line,1,0.0,2021.0,,78c13ae8-0ee3-46cd-a33a-55f5d03d2986
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,system number power,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,stabil power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,multimachin power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,power system number,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,energi sourc,1,0.0,2019.0,,44b4f2d8-9e92-4f26-b11c-dcd345de0277
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,oper power system,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,fault power system,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system,fault power,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multimachin power system,system number power,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multimachin power system,stabil power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multimachin power system,power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),multimachin power system,power system number,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil power system,system number power,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil power system,multimachin power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil power system,power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil power system,power system number,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system number,system number power,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system number,stabil power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system number,multimachin power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system number,power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system number,oper power system,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system number power,stabil power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system number power,multimachin power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system number power,power system,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system number power,power system number,1,0.0,2018.0,,eb866d76-bb1d-434c-b2f7-dd417d8790aa
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system number power,oper power system,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),energi sourc,power system,1,0.0,2019.0,,44b4f2d8-9e92-4f26-b11c-dcd345de0277
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),energi sourc,load dynam,1,0.0,2021.0,,bb5b16cb-6276-408b-9477-cd05b0fa8e05
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power system,power system number,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power system,system number power,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power system,power system,1,0.0,2019.0,,7f6a5e18-751c-498d-9b6e-ca84a4454fee
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power system,power system,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),fault power system,fault power,1,0.0,2020.0,,858c5721-91b6-44c2-add2-e82a41197f19
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system fault,oper power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system fault,system fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),power system fault,fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power,system fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power,power system fault,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),oper power,fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system fault power,oper power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system fault power,power system fault,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system fault power,fault power,1,0.0,2021.0,,79af9953-64ee-49a0-9d05-d699fe76d923
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil system,stabil analysi,1,0.0,2020.0,,f6a3cc4f-372e-4190-888a-c0405b13804e
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system negativepass,system passiv,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system negativepass,properti system,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system passiv,system negativepass,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system passiv,properti system,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),system passiv,stabil analysi,1,0.0,2014.0,,cdbe79f7-5726-43ed-8d9a-5cf515e02956
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),properti system,system passiv,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),properti system,system negativepass,1,0.0,2013.0,,12c29b9c-81b4-4669-9d1d-4d6bcfba2c86
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil analysi,system passiv,1,0.0,2014.0,,cdbe79f7-5726-43ed-8d9a-5cf515e02956
+Systems and Control(97.21%) | Cryptography and Security(54.4%) | Other Computer Science(54.36%),stabil analysi,stabil system,1,0.0,2020.0,,f6a3cc4f-372e-4190-888a-c0405b13804e

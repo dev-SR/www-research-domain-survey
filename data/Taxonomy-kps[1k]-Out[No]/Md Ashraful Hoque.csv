@@ -1,0 +1,469 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert system,voltag gain,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert system,system power,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert system,step convert,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,voltag gain,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,system power,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,convert system,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),step convert,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system power,system power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system power,system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system power,power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system,system power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system,system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power system,power system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power system,system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power system,power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power system,power system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,system power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,power system,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,power system power,1,0.0,2011.0,,1521b7b3-4eae-4a7e-b93d-b6928de696a7
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,voltag gain,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,convert system,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),system power,step convert,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag gain,system power,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag gain,convert system,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag gain,step convert,1,0.0,2017.0,,25bae987-c319-4e0c-945e-f4b58507d518
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert voltag,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,fuel cell power,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,gain dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,gain dcdc,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),dcdc convert,cell power plant,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert voltag voltag,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,boost convert,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,convert downbeat,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,buck boost,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,output voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),voltag voltag,output voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,convert dcdc,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc convert,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,convert voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,step convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,dcdc convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,voltag voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,convert voltag,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert dcdc,convert dcdc convert,1,0.0,2018.0,,f00cdcb7-0f5f-4efb-bffd-91361b0c174e
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,power equip,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,phase rectifi,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,boost convert,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,convert downbeat,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,output voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),buck boost,output voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power equip,buck boost,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power equip,phase rectifi,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),phase rectifi,buck boost,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),phase rectifi,power equip,1,0.0,2012.0,,effa6b63-e6ce-42dd-a49a-f7249f9282c8
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert downbeat,boost convert,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert downbeat,voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert downbeat,buck boost,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert downbeat,output voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert downbeat,output voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert,convert downbeat,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert,voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert,buck boost,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert,output voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert,output voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag,boost convert,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag,convert downbeat,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag,voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag,buck boost,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag,output voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag voltag,boost convert,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag voltag,convert downbeat,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag voltag,voltag voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag voltag,buck boost,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),output voltag voltag,output voltag,1,0.0,2018.0,,a67221b2-a2ed-4242-b01f-05672d9f3a90
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc convert,fuel cell,1,0.0,2016.0,,54bd6892-f786-4347-bcd1-325ec7db2c1a
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc convert,fuel cell power,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc convert,dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc convert,gain dcdc,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc convert,cell power plant,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),fuel cell,gain dcdc convert,1,0.0,2016.0,,54bd6892-f786-4347-bcd1-325ec7db2c1a
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),fuel cell power,gain dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),fuel cell power,dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),fuel cell power,gain dcdc,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),fuel cell power,cell power plant,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc,fuel cell power,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc,gain dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc,dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gain dcdc,cell power plant,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cell power plant,fuel cell power,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cell power plant,gain dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cell power plant,dcdc convert,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cell power plant,gain dcdc,1,0.0,2018.0,,cb82347f-aaca-4f05-a3c3-95a69d9706bb
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),synthesi tetrapeptid,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid,tetrapeptid disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid,histon deacetylas,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid,deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid,histon deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid,disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,tetrapeptid disulfid,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,tetrapeptid disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,histon deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,hdac inhibitor,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas,histon deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),disulfid histon,tetrapeptid disulfid,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),disulfid histon,tetrapeptid disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),disulfid histon,histon deacetylas,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),disulfid histon,deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),disulfid histon,histon deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas inhibitor,tetrapeptid disulfid,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas inhibitor,tetrapeptid disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas inhibitor,histon deacetylas,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas inhibitor,histon deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas inhibitor,disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid histon,tetrapeptid disulfid,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid histon,histon deacetylas,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid histon,deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid histon,histon deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid disulfid histon,disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,tetrapeptid disulfid,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,tetrapeptid disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,histon deacetylas,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,deacetylas inhibitor,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,disulfid histon,1,0.0,2011.0,,fcf2ba9d-1ca6-45fd-8219-81c05e1ede24
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,hctoxin tetrapeptid histon,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas inhibitor,tetrapeptid histon deacetylas,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor histon,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid thioester,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),inhibitor histon deacetylas,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),design synthesi,bridg inhibitor,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,design synthesi,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,inhibitor histon deacetylas,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,bridg inhibitor histon,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,tetrapeptid thioester,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),bridg inhibitor,synthesi tetrapeptid,1,0.0,2012.0,,3f2b5334-c0e4-48ff-ad91-f750ef35e2f4
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas hdac,histon deacetylas,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas hdac,hdac inhibitor,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),deacetylas hdac,histon deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas hdac,histon deacetylas,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas hdac,hdac inhibitor,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),histon deacetylas hdac,deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),hdac inhibitor,histon deacetylas,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),hdac inhibitor,deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),hdac inhibitor,histon deacetylas hdac,1,0.0,2014.0,,7f4cc540-cc05-4d22-8d44-f3660c88985d
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),hctoxin tetrapeptid histon,histon deacetylas inhibitor,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),hctoxin tetrapeptid histon,tetrapeptid histon deacetylas,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid histon deacetylas,hctoxin tetrapeptid histon,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Computational Geometry(57.65%) | Computational Complexity(50.07%) | Systems and Control(41.78%),tetrapeptid histon deacetylas,histon deacetylas inhibitor,1,0.0,2015.0,,9908dda0-7c69-43ff-af08-a5be4b5e10f5
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi,film solar,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi,solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi,cdte film,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi,film solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi,paper analysi perform,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,film solar,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,paper analysi,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,cdte film,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,film solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,paper analysi perform,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,paper perform,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,czt film,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,czt film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,czt solar,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),solar cell,czt solar cell,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,film solar,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,paper analysi,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,cdte film,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,paper analysi perform,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,paper perform,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,czt film,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar cell,czt film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,paper analysi,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,cdte film,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,film solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,paper analysi perform,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,paper perform,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,czt film,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),film solar,czt film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi perform,film solar,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi perform,paper analysi,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi perform,solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi perform,cdte film,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper analysi perform,film solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cdte film,film solar,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cdte film,paper analysi,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cdte film,solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cdte film,film solar cell,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),cdte film,paper analysi perform,1,0.0,2016.0,,ecd31959-42f9-4953-ba02-cc498701cff4
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper perform,solar cell,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper perform,film solar cell,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper perform,film solar,1,0.0,2016.0,,92573aaa-d987-4ae0-ab44-c6b7ba58fa10
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper perform,czt film,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper perform,czt film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film solar,film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film solar,solar cell,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film solar,paper perform,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film solar,czt film,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film solar,film solar cell,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film,film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film,solar cell,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film,paper perform,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film,czt film solar,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt film,film solar cell,1,0.0,2016.0,,ee61cdac-16aa-47e9-9f2c-1f325b628dfa
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt solar cell,czt solar,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt solar cell,solar cell,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt solar,czt solar cell,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),czt solar,solar cell,1,0.0,2017.0,,3834e7fc-8c54-4f28-ac44-7d95637d7726
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),convert convert hysteresi,sepic inductor convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),convert convert hysteresi,paper studi sepic,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),convert convert hysteresi,inductor convert convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi sepic,convert convert hysteresi,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi sepic,sepic inductor convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi sepic,inductor convert convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,convert convert hysteresi,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,sepic inductor convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,paper studi sepic,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,algorithm algorithm,1,0.0,2019.0,,4bf6cceb-f791-49af-9e63-7adb4d99941b
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert convert,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,convert convert hysteresi,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,paper studi sepic,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,inductor convert convert,1,0.0,2018.0,,92cf1839-4f62-43ed-83ba-278b20710793
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,algorithm algorithm,1,0.0,2019.0,,4bf6cceb-f791-49af-9e63-7adb4d99941b
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor convert,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),algorithm algorithm,sepic inductor convert,1,0.0,2019.0,,4bf6cceb-f791-49af-9e63-7adb4d99941b
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),algorithm algorithm,inductor convert convert,1,0.0,2019.0,,4bf6cceb-f791-49af-9e63-7adb4d99941b
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,inductor convert convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,sepic inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),stabil sepic,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,inductor convert convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,sepic inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),paper studi,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,inductor convert convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,sepic inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),inductor convert,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,inductor convert convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,sepic inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,control sepic convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),sepic inductor,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,inductor convert convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,sepic inductor,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,sepic inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,stabil sepic,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,paper studi,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(85.24%) | Computation and Language(81.52%) | Mathematical Software(79.55%),control sepic convert,inductor convert,1,0.0,2019.0,,6db006fb-9b77-4ead-8f72-b3fe8bdfb995
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),design simul,paper design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),design simul,speed control,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),design simul,paper design,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),speed control,paper design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),speed control,paper design,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),speed control,design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),motor power,object paper,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),motor power,paper design,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),motor power,power point,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object paper,water system,1,0.0,2017.0,,b981b08c-3df3-475f-ab0f-6d4605606e80
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object paper,motor power,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object paper,paper design,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object paper,power point,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),water system,object paper,1,0.0,2017.0,,b981b08c-3df3-475f-ab0f-6d4605606e80
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,motor power,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,object paper,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,power point,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,paper design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,speed control,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design,design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power point,motor power,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power point,object paper,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power point,paper design,1,0.0,2019.0,,6c859808-38b6-4db4-b2b0-d5ad709861c1
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design simul,speed control,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design simul,paper design,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper design simul,design simul,1,0.0,2019.0,,b4c3934e-bd76-4a0a-8bc8-cd8c02298243
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),pfc boost convert,power qualiti power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),pfc boost convert,power factor power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),pfc boost convert,boost convert input,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),pfc boost convert,singlephas acdc,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),singlephas acdc,convert convers,1,0.0,2015.0,,ee297bb0-7ffd-42aa-8ca1-7a1932c1d0b2
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),singlephas acdc,pfc boost convert,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),singlephas acdc,power qualiti power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),singlephas acdc,power factor power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),singlephas acdc,boost convert input,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert convers,singlephas acdc,1,0.0,2015.0,,ee297bb0-7ffd-42aa-8ca1-7a1932c1d0b2
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert input,pfc boost convert,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert input,power qualiti power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert input,power factor power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),boost convert input,singlephas acdc,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power qualiti power,pfc boost convert,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power qualiti power,power factor power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power qualiti power,boost convert input,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power qualiti power,singlephas acdc,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor power,pfc boost convert,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor power,power qualiti power,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor power,boost convert input,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor power,singlephas acdc,1,0.0,2018.0,,b82fcdc9-49d4-491f-b7d4-be74a7536917
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),practic bangladesh,studi analyz,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),practic bangladesh,exposur radiat,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),practic bangladesh,radiat cardiolog,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),practic bangladesh,object studi,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),exposur radiat,studi analyz,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),exposur radiat,practic bangladesh,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),exposur radiat,radiat cardiolog,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),exposur radiat,object studi,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),studi analyz,exposur radiat,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),studi analyz,practic bangladesh,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),studi analyz,radiat cardiolog,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),studi analyz,object studi,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),radiat cardiolog,studi analyz,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),radiat cardiolog,exposur radiat,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),radiat cardiolog,practic bangladesh,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),radiat cardiolog,object studi,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object studi,studi analyz,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object studi,exposur radiat,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object studi,practic bangladesh,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),object studi,radiat cardiolog,1,0.0,2014.0,,e57dca3a-835c-44c7-80a2-07e13b2244c0
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper locat,gazipur bangladesh,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper locat,univers technolog,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper locat,panel paper,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),univers technolog,paper locat,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),univers technolog,gazipur bangladesh,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),univers technolog,panel paper,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),panel paper,paper locat,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),panel paper,gazipur bangladesh,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),panel paper,univers technolog,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gazipur bangladesh,paper locat,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gazipur bangladesh,univers technolog,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),gazipur bangladesh,panel paper,1,0.0,2011.0,,68e303fc-d5f2-428c-8691-dbb92693b30b
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper effici,effici variat,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper effici,heterojunct solar,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),paper effici,heterojunct solar cell,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici variat,heterojunct solar,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici variat,paper effici,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici variat,heterojunct solar cell,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar,effici variat,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar,paper effici,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar,heterojunct solar cell,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar cell,effici variat,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar cell,heterojunct solar,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),heterojunct solar cell,paper effici,1,0.0,2013.0,,d60c72a4-1351-43fb-8add-d4c63a4ab64f
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),phase acdc,power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),phase acdc,effici power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),phase acdc,effici power,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor,phase acdc,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor,effici power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),power factor,effici power,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power factor,power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power factor,phase acdc,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power factor,effici power,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power,power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power,phase acdc,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici power,effici power factor,1,0.0,2016.0,,171c3851-08f1-4466-8d31-dd251ae014c9
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici voltag,convert step,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici voltag,effici voltag gain,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert step,effici voltag gain,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),convert step,effici voltag,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici voltag gain,convert step,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab
+Cryptography and Security(83.76%) | Symbolic Computation(80.33%) | Operating Systems(77.47%),effici voltag gain,effici voltag,1,0.0,2016.0,,9e17a95a-636d-494c-8563-2fe798b54aab

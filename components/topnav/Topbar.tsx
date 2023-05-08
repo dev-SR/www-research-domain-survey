@@ -3,8 +3,6 @@ import React from 'react';
 import { Combobox, ComboboxDataType } from '../ui/combobox';
 import { useRouter } from 'next/navigation';
 import { Button } from '../ui/button';
-import queryString from 'query-string';
-import { alerter } from '../../lib/utils';
 import {
 	Select,
 	SelectContent,
@@ -67,14 +65,27 @@ const Topbar = ({ data = [] }: { data: ComboboxDataType[] }) => {
 					width={300}
 				/>
 				<Select onValueChange={handleVersionValueChange}>
-					<SelectTrigger className='w-full md:w-[180px]'>
+					<SelectTrigger className='w-full md:w-[300px]'>
 						<SelectValue placeholder='Data versions' />
 					</SelectTrigger>
 					<SelectContent>
 						<SelectGroup>
-							<SelectLabel>Different versions</SelectLabel>
-							<SelectItem value='Native th0.3'>Native th0.3</SelectItem>
-							<SelectItem value='Fine Tune th0.5'>Fine Tune th0.5</SelectItem>
+							<SelectLabel> Unlabelled datasets</SelectLabel>
+							<SelectItem value='Native th0.3'> Native th0.3</SelectItem>
+							<SelectItem value='Fine Tune th0.5'> Fine Tune th0.5</SelectItem>
+						</SelectGroup>
+						<SelectGroup>
+							<SelectLabel>Labelled datasets</SelectLabel>
+							<SelectItem value='Taxonomy-kps[1k]-Out[No]'>Taxonomy-kps[1k]-Out[No]</SelectItem>
+							<SelectItem value='Taxonomy-kps[1k]-Out[th0.5]'>
+								Taxonomy-kps[1k]-Out[th0.5]
+							</SelectItem>
+							<SelectItem value='Taxonomy-kps[1k]-Out[th0.7]'>
+								Taxonomy-kps[1k]-Out[th0.7]
+							</SelectItem>
+							<SelectItem value='Taxonomy-kps[1k]-Out[th0.85]'>
+								Taxonomy-kps[1k]-Out[th0.85]
+							</SelectItem>
 						</SelectGroup>
 					</SelectContent>
 				</Select>

@@ -1,0 +1,821 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,power bit,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,power bit inform,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power dissip,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss inputoutput,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,bit loss,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,loss map,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,bit loss,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,loss map,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power bit inform,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inputoutput map,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recov loss,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss inputoutput map,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,recov loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,loss inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,power bit,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,recov loss,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,power bit inform,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,inputoutput map,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,loss inputoutput,1,0.0,2011.0,,9423b9da-5f63-44fe-8e75-87a41323534f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,bit loss,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,loss map,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit inform,paper design fault,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,power bit,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,power bit inform,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,power bit,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,power bit inform,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),object world,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,power bit,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,power bit inform,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,vlsi circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world vlsi,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,power dissip,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,power bit,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,power bit inform,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,world vlsi,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,circuit design,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),vlsi circuit design,object world,1,0.0,2012.0,,b71fef24-80b9-47be-9874-14a1b64a0e87
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit loss,bit inform,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit loss,loss map,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit loss,power bit,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit loss,power bit inform,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss map,bit inform,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss map,bit loss,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss map,power bit,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss map,power bit inform,1,0.0,2012.0,,d92edd39-2f05-4e76-b755-9b9b45f433af
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,recov loss inputoutput,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,loss inputoutput map,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,bit inform,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,comput power,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,power bit,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,recov loss,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,power bit inform,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,inputoutput map,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power consumpt,loss inputoutput,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,recov loss inputoutput,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,loss inputoutput map,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,bit inform,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,comput power consumpt,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,power bit,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,recov loss,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,power bit inform,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,inputoutput map,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),comput power,loss inputoutput,1,0.0,2012.0,,0411bb0d-0b81-4d33-a2d9-b72dd57e05cf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),architectur power consumpt,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),work circuit design,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design modular,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular approach,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,consumpt protect power,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design modular,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,design modular approach,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,architectur power consumpt,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,work circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,circuit design,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt protect power,circuit design modular,1,0.0,2015.0,,0efbbf6d-6893-409e-a691-d8fbce57c3f4
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,recov loss inputoutput,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,loss inputoutput map,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,bit inform,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,power bit,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,recov loss,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,power bit inform,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,inputoutput map,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper design fault,loss inputoutput,1,0.0,2018.0,,9e6041a0-01d6-4983-9578-0cd8a241afb3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),quantum comput,logic way power,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),quantum comput,logic role,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),quantum comput,issu circuit design,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),quantum comput,power consumpt,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),quantum comput,design power consumpt,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,logic role,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt,quantum comput,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent time,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power loss inputoutput,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),time power consumpt,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic attent,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),concern design,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),attent time power,power consumpt properti,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,consumpt concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt concern,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,logic attent,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,power loss inputoutput,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,power consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,time power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,logic attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,attent time,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,power consumpt,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,concern design,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,consumpt concern,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),consumpt concern design,attent time power,1,0.0,2013.0,,a115b68f-60f9-412b-abcf-6e50198540eb
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,logic role,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit design,quantum comput,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit design power,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,logic role,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power consumpt,quantum comput,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design power,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,logic role,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic way power,quantum comput,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),way power,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,power optim,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),issu circuit,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,logic way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,issu circuit design,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,way power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,circuit design power,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,issu circuit,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power optim,design power consumpt,1,0.0,2013.0,,d1163425-5632-4225-8ff4-bd8b8494a4c2
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,logic attent,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,time power consumpt,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,time power,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,attent time,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,logic attent time,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,power consumpt,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,concern design,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power consumpt properti,attent time power,1,0.0,2017.0,,a8113001-ecfc-49e7-a52f-82948a475689
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic role,logic way power,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic role,issu circuit design,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic role,power consumpt,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic role,quantum comput,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic role,design power consumpt,1,0.0,2018.0,,5153e6f9-c6bf-4d72-8664-8071853f1831
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem catastroph,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph centuri,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri crisi,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world war,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi world,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),outbreak pandem,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),pandem catastroph,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),catastroph centuri,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),centuri crisi,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),crisi world,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,pandem catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,crisi world war,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,catastroph centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,catastroph centuri,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,centuri crisi,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,outbreak pandem,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,centuri crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,crisi world,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),world war,outbreak pandem catastroph,1,0.0,2021.0,,34caaaa2-f6ab-4030-9d0b-73db48df33e7
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,power cmo quantum,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,year logic,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,logic promis,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,applic power,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power cmo,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),year logic,power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),year logic,power cmo quantum,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),year logic,logic promis,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),year logic,applic power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),year logic,applic power,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic promis,power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic promis,power cmo quantum,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic promis,year logic,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic promis,applic power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),logic promis,applic power,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo quantum,power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo quantum,year logic,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo quantum,logic promis,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo quantum,applic power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo quantum,applic power,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,power cmo quantum,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,year logic,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,logic promis,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,applic power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,applic power,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,power cmo quantum,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,year logic,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,logic promis,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,applic power cmo,1,0.0,2011.0,,922908f5-aaa8-4539-8953-bf810100b87f
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic power,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,applic power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power cmo design,applic power,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,applic power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum,applic power,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,cmo design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,applic power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),design quantum nanotechnolog,applic power,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,design quantum nanotechnolog,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,power cmo design,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,applic power cmo,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,design quantum,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cmo design quantum,applic power,1,0.0,2015.0,,f59359e6-dbc2-42ae-82c5-e4758a513ed3
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),multipli circuit,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),approach cost fault,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli circuit,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper approach cost,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),cost fault,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,fault toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),toler multipli,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,paper approach,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,toler multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,fault toler,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,multipli circuit,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,approach cost fault,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,toler multipli,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,paper approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault toler multipli,approach cost,1,0.0,2019.0,,5021707f-63fb-4dfc-921c-e5a6fbf6c147
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",data bit,barrel shifter,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",data bit,paper synthesi,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper synthesi,barrel shifter,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper synthesi,data bit,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,data bit,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,paper synthesi,1,0.0,2013.0,,34ab1291-b618-4b16-8575-dce73a935b7f
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,shifter bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,paper design,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,shifter bit bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",barrel shifter,paper design nbit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit,paper design,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit,shifter bit bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit,barrel shifter,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit,paper design nbit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design,shifter bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design,shifter bit bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design,barrel shifter,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design,paper design nbit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design nbit,shifter bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design nbit,paper design,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design nbit,shifter bit bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",paper design nbit,barrel shifter,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit bit,shifter bit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit bit,paper design,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit bit,barrel shifter,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+"Systems and Control(80.23%) | Cryptography and Security(79.85%) | Distributed, Parallel, and Cluster Computing(79.38%)",shifter bit bit,paper design nbit,1,0.0,2016.0,,7fe24a48-039e-4571-9c59-a4ff4aa0fdcf
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform loss,loss input,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform loss,term inform,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform loss,error circuit,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform loss,circuit inputoutput map,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform loss,inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit inputoutput map,term inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit inputoutput map,loss input,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit inputoutput map,term inform,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit inputoutput map,error circuit,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),circuit inputoutput map,inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform,term inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform,loss input,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform,error circuit,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform,circuit inputoutput map,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),term inform,inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss input,term inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss input,term inform,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss input,error circuit,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss input,circuit inputoutput map,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),loss input,inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),error circuit,term inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),error circuit,loss input,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),error circuit,term inform,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),error circuit,circuit inputoutput map,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),error circuit,inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inform loss,term inform loss,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inform loss,loss input,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inform loss,term inform,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inform loss,error circuit,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),inform loss,circuit inputoutput map,1,0.0,2012.0,,e99f6a2f-afd3-4c86-9535-1c850cf186b5
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),array technolog,field array,1,0.0,2017.0,,31666338-25fa-4753-92a6-891e1ae43123
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault,field array,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault,fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault,synthesi field,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault,paper fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault synthesi,paper fault,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault synthesi,field array,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault synthesi,synthesi field,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),fault synthesi,paper fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault synthesi,paper fault,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault synthesi,field array,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault synthesi,fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper fault synthesi,synthesi field,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field array,paper fault,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field array,fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field array,synthesi field,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field array,paper fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field array,array technolog,1,0.0,2017.0,,31666338-25fa-4753-92a6-891e1ae43123
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi field,paper fault,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi field,field array,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi field,fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi field,paper fault synthesi,1,0.0,2013.0,,453e6bc3-6f55-40e3-9225-86ecdadd416d
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi logic,modern technolog,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),synthesi logic,develop logic,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),develop logic,modern technolog,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),develop logic,synthesi logic,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),technolog logic,power circuit,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),technolog logic,modern technolog,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),modern technolog,power circuit,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),modern technolog,technolog logic,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),modern technolog,develop logic,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),modern technolog,synthesi logic,1,0.0,2015.0,,ef7d37c7-e95d-4dae-a97c-3bca8df53725
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power circuit,modern technolog,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),power circuit,technolog logic,1,0.0,2014.0,,6f3c0a28-8c18-428c-91ee-51a458006010
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),biomateri research,field biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),biomateri research,field biomateri,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),biomateri research,applic field,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri research,field biomateri,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri research,biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri research,applic field,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic field,field biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic field,field biomateri,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),applic field,biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri,field biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri,biomateri research,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),field biomateri,applic field,1,0.0,2015.0,,ce8e6b11-8d05-4704-980e-7551fd1dc8ed
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),number bit,paper nbit,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),number bit,bit operand,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit operand,number bit,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),bit operand,paper nbit,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper nbit,number bit,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),paper nbit,bit operand,1,0.0,2013.0,,a15f263b-024c-4c9d-a380-0ce909b073f0
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),activ recognit,recognit area,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),activ recognit,area field,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),area field,recognit area,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),area field,activ recognit,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recognit area,area field,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9
+Operating Systems(73.3%) | Emerging Technologies(71.11%) | Symbolic Computation(69.51%),recognit area,activ recognit,1,0.0,2021.0,,1b1526ad-baca-4da7-9932-a6a7f391ebd9

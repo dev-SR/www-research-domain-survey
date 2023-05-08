@@ -1,11 +1,8 @@
 /* eslint-disable react/no-unescaped-entities */
-import Link from 'next/link';
 import fsPromises from 'fs/promises';
 import path from 'path';
 import { SearchParamProps } from '~/types/common';
-import { Params } from '~/types/common';
 import { GraphData, JsonData } from '~/types/Graph';
-import { GraphinData } from '@antv/graphin';
 import Domain from './domain/Domain';
 
 async function getDomainData(params: Record<string, any>) {

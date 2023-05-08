@@ -1,0 +1,855 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network denial,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,inform share,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,cryptographi solut data,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,world inform,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,inform commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,ob network edg,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,burst ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun technolog,network gener commun,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform share,commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform share,cryptographi solut data,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform share,world inform,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform share,inform commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform commun technolog,inform share,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform commun technolog,commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform commun technolog,cryptographi solut data,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform commun technolog,world inform,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),world inform,inform share,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),world inform,commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),world inform,cryptographi solut data,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),world inform,inform commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi solut data,inform share,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi solut data,commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi solut data,world inform,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi solut data,inform commun technolog,1,0.0,2015.0,,09592e1a-4960-4382-b19c-efdae8fa5b26
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,ob network edg,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,commun technolog,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,burst ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,network gener commun,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network gener commun,ob network edg,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network gener commun,commun technolog,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network gener commun,burst ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network gener commun,ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,ob network edg,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,commun technolog,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,network gener commun,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst ob network,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network edg,commun technolog,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network edg,burst ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network edg,ob network,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network edg,network gener commun,1,0.0,2019.0,,36f4467c-c786-4537-a058-0223469970b6
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),packet flood,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header packet,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),attack burst ob,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst header,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,attack burst,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,ob network denial,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,burst header,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,burst ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,attack burst ob,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,burst header packet,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,ob network,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),header packet,packet flood,1,0.0,2020.0,,a484fc7e-6e76-4602-aaff-dc7c4e65824c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model multiclass,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),class classif,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),fusion time seri,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),memori model,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),model class,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),time seri dataset,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,classif maneuv fusion,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion time,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,fusion time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,class classif,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,memori model,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,classif maneuv,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,time seri,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,maneuv fusion time,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,time seri dataset,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,model class,1,0.0,2020.0,,24115c3a-5bb8-4225-ab2d-f4effdc3cd6b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif maneuv fusion,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work model multiclass,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),maneuv fusion,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),work signific sensor,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,multiclass classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),seri dataset,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,fusion time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,work signific sensor,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,classif maneuv,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,time seri,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,time seri dataset,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,maneuv fusion time,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,classif maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,work model multiclass,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,work model,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),multiclass classif maneuv,maneuv fusion,1,0.0,2021.0,,eb02dc87-da5d-44d5-bf5b-60f68a8836c4
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm recursivebkz,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),perform reduct algorithm,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic reduct,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,reduct algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,bkz variant,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,preprocess reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm,preprocess reduct,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic reduct algorithm,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),limit lattic,reduct algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,perform reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,limit lattic,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,algorithm recursivebkz,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,lattic reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,reduct algorithm,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,limit lattic reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm recursivebkz,perform reduct,1,0.0,2014.0,,26602efb-79c3-4b54-ac55-b67efc225b9d
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct algorithm,algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct algorithm,reduct algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct algorithm,reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct algorithm,bkz variant,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct algorithm,preprocess reduct,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm block,algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm block,reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm block,bkz variant,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm block,preprocess reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),reduct algorithm block,preprocess reduct,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct,algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct,reduct algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct,reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct,bkz variant,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),preprocess reduct,preprocess reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),bkz variant,algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),bkz variant,reduct algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),bkz variant,reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),bkz variant,preprocess reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),bkz variant,preprocess reduct,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm block,reduct algorithm block,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm block,reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm block,bkz variant,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm block,preprocess reduct algorithm,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),algorithm block,preprocess reduct,1,0.0,2018.0,,4635eaef-12bd-478d-b484-41a99b2a9829
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,data inform challeng,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,commun system,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,inform asset,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,asset commun,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform,techniqu data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform access,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access data,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data inform,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform access,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,peopl data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),access data,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,data inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,peopl data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,access data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,inform access data,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,data inform,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),peopl data inform,inform access,1,0.0,2017.0,,c9f28ef8-fc9e-4076-b433-d9011e572e8a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun system,data inform challeng,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun system,inform asset,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun system,asset commun,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun system,data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),commun system,techniqu data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform asset,data inform challeng,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform asset,commun system,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform asset,asset commun,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform asset,data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform asset,techniqu data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform challeng,commun system,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform challeng,inform asset,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform challeng,asset commun,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform challeng,data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data inform challeng,techniqu data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),asset commun,data inform challeng,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),asset commun,commun system,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),asset commun,inform asset,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),asset commun,data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),asset commun,techniqu data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu data inform,data inform challeng,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu data inform,commun system,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu data inform,inform asset,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu data inform,asset commun,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu data inform,data inform,1,0.0,2019.0,,c4d34540-20f3-4727-8a2c-ff2c32b4af95
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),cryptographi vector problem,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),area comput,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),problem element,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),element area,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),comput scienc cryptographi,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,scienc cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem element,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,comput scienc cryptographi,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,area comput,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,cryptographi vector,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,cryptographi vector problem,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,element area,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,comput scienc,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,lattic problem element,1,0.0,2015.0,,cc631ccb-802d-4b16-b8e1-1451be6e5cef
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc cryptographi vector,lattic problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,scienc cryptographi vector,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,scienc cryptographi,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,comput scienc cryptographi,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,area comput,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,cryptographi vector,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,problem element,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,cryptographi vector problem,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,element area,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,comput scienc,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),lattic problem,lattic problem element,1,0.0,2017.0,,f9d03951-90eb-4e3b-903c-a99387521a6c
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif burst,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic network,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),burst network traffic,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network node,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),classif burst network,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach classif,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,studi approach,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network traffic,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,burst network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,network node,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,classif burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,burst network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,approach classif burst,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,approach classif,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,network traffic,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),studi approach,network traffic network,1,0.0,2020.0,,8615394c-f678-41d0-a3f9-5a815c67d807
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas databas,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),process relev data,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas databas,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),order inform,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),relev data,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),databas order inform,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data mine,data databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,process relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,databas order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,relev data,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,order inform,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,data databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,databas order,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,databas databas,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),data databas,data mine,1,0.0,2021.0,,6d880f06-6380-4047-a265-5d1f5913d719
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless,sensor wsn,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless,wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless,healthcar system,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless,system uhealthcar,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless,applic wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),sensor wsn,wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),sensor wsn,healthcar system,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),sensor wsn,system uhealthcar,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),sensor wsn,applic wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),sensor wsn,applic wireless,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless sensor,sensor wsn,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless sensor,wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless sensor,healthcar system,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless sensor,system uhealthcar,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),applic wireless sensor,applic wireless,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),wireless sensor,sensor wsn,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),wireless sensor,healthcar system,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),wireless sensor,system uhealthcar,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),wireless sensor,applic wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),wireless sensor,applic wireless,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),healthcar system,sensor wsn,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),healthcar system,wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),healthcar system,system uhealthcar,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),healthcar system,applic wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),healthcar system,applic wireless,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),system uhealthcar,sensor wsn,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),system uhealthcar,wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),system uhealthcar,healthcar system,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),system uhealthcar,applic wireless sensor,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Systems and Control(43.38%) | Cryptography and Security(40.52%) | Information Theory(39.99%),system uhealthcar,applic wireless,1,0.0,2018.0,,3dba76de-dd15-4ab2-a19e-8693d38df1ab
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),dhke protocol,protocol exchang,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),dhke protocol,exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),dhke protocol,protocol exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),dhke protocol,protocol way,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol way,protocol exchang,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol way,dhke protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol way,exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol way,protocol exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang,dhke protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang,exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang,protocol exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang,protocol way,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),exchang protocol,protocol exchang,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),exchang protocol,dhke protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),exchang protocol,protocol exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),exchang protocol,protocol way,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang protocol,protocol exchang,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang protocol,dhke protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang protocol,exchang protocol,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Sound(93.51%) | General Literature(69.34%) | Programming Languages(58.49%),protocol exchang protocol,protocol way,1,0.0,2019.0,,73b98bb5-6956-4821-bc04-1bbc6506c97c
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),bkz reduct,reduct time qualiti,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),bkz reduct,reduct hanrot,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),bkz reduct,trade reduct time,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),trade reduct time,bkz reduct,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),trade reduct time,reduct time qualiti,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),trade reduct time,reduct hanrot,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct time qualiti,bkz reduct,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct time qualiti,reduct hanrot,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct time qualiti,trade reduct time,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct hanrot,bkz reduct,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct hanrot,reduct time qualiti,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Hardware Architecture(67.67%) | Cryptography and Security(44.36%) | Operating Systems(41.56%),reduct hanrot,trade reduct time,1,0.0,2014.0,,4526ba3f-9b65-471b-9c05-5b9e23caf6e9
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform media,scienc inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform media,techniqu inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),inform media,emd method,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),emd method,scienc inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),emd method,techniqu inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),emd method,inform media,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc inform,techniqu inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc inform,inform media,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),scienc inform,emd method,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu inform,scienc inform,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu inform,inform media,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),techniqu inform,emd method,1,0.0,2017.0,,1022302f-fc26-4f42-be06-a16d14e1641a
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network dataset mixtur,ob network dataset,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network dataset mixtur,approach node ob,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),network dataset mixtur,node ob network,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach node ob,ob network dataset,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach node ob,network dataset mixtur,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),approach node ob,node ob network,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),node ob network,ob network dataset,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),node ob network,network dataset mixtur,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),node ob network,approach node ob,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network dataset,network dataset mixtur,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network dataset,approach node ob,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b
+Digital Libraries(85.81%) | Cryptography and Security(80.33%) | Networking and Internet Architecture(78.76%),ob network dataset,node ob network,1,0.0,2021.0,,7ae59f61-3dfe-4291-a2f8-6a3b3a75a12b

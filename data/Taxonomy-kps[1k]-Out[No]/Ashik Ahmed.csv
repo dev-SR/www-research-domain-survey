@@ -1,0 +1,609 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),flow control mpupfc,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control mpupfc power,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system stabil,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,smib power system,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,paper control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,transmiss system power,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power flow control,system power flow,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi model power,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),design analysi model,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil assess,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,model power flow,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),mpupfc power system,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,flow control mpupfc,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,system stabil assess,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,mpupfc power system,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,analysi model power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,control mpupfc power,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,power flow control,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,design analysi model,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model power flow,power system stabil,1,0.0,2012.0,,c4b41aef-34eb-4241-84da-0d00a3290013
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),multimachin power system,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),iwo power system,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,paper weed optim,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),optim iwo power,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,multimachin power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,optim iwo power,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,paper weed,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,iwo power system,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,power system stabil,1,0.0,2012.0,,7516b785-6eec-4f1a-9dac-3dd662dfb591
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper weed optim,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,optim iwo power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,multimachin power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,paper weed optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,iwo power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system tune,power system stabil,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,optim iwo power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,multimachin power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,paper weed optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,iwo power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,power system stabil,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,paramet materi,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm optim,particl swarm,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,optim iwo power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,multimachin power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,paper weed optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,iwo power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,system stabil multimachin,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil multimachin power,power system stabil,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,optim iwo power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,multimachin power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,stabil multimachin power,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,power system tune,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,paper weed optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,particl swarm optim,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,iwo power system,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil multimachin,power system stabil,1,0.0,2012.0,,bf2c34c6-c6fa-486b-96bf-68848f1fc314
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper control,smib power system,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper control,transmiss system power,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper control,system power flow,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper control,power flow control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),smib power system,paper control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),smib power system,transmiss system power,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),smib power system,system power flow,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),smib power system,power flow control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss system power,smib power system,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss system power,paper control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss system power,system power flow,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss system power,power flow control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system power flow,smib power system,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system power flow,paper control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system power flow,transmiss system power,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system power flow,power flow control,1,0.0,2013.0,,aabc5718-157f-41de-bc57-02a33de4ea29
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper system respons,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),transmiss power system,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,stabil paper system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system stabil paper,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,transmiss power system,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,transmiss power,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,system stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,stabil paper,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,paper system respons,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),stabil paper system,power system stabil,1,0.0,2015.0,,eb237642-8aec-4c50-8b3d-7e854c8a77a1
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),model paramet,paramet materi,1,0.0,2016.0,,a78ea153-448d-4ab2-9a44-5001de713a3e
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paramet materi,model paramet,1,0.0,2016.0,,a78ea153-448d-4ab2-9a44-5001de713a3e
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paramet materi,particl swarm optim,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paramet materi,particl swarm,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm,particl swarm optim,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),particl swarm,paramet materi,1,0.0,2016.0,,0c1350ff-bb72-4fd8-aa76-558cdf26e269
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system frequenc oscil,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),wind power,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),frequenc oscil,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,input output,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system frequenc,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,power system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,power system,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,system frequenc,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,system frequenc oscil,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),input output,wind power,1,0.0,2018.0,,bac8d3b6-ea8a-4db1-bdad-dda277054ea6
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern oper,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper power system,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfo concern,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,concern oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oscil lfo concern,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,oper power,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,oscil lfo,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,oper power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,oscil lfo concern,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,power system,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern oper power,lfo concern oper,1,0.0,2021.0,,cf88f0c1-9607-4d70-80df-ab43fba06a87
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel cell,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid fuel,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),respons standalon,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),standalon oxid,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),fuel cell sofc,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oxid fuel,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,cell sofc system,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),control respons,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,respons standalon,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,oxid fuel cell,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,fuel cell sofc,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,control respons,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,standalon oxid fuel,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,standalon oxid,1,0.0,2016.0,,d5ec7f73-2111-464f-88eb-fad9952be807
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),cell sofc system,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic evolut,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),paper applic,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut algorithm,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,evolut algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),applic evolut,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,paper applic,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,respons standalon,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,applic evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,oxid fuel cell,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,fuel cell sofc,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,control respons,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,paper applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,cell sofc system,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,evolut algorithm,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,standalon oxid fuel,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,algorithm tune,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,applic evolut,1,0.0,2016.0,,c7cd4b26-22e9-435a-895c-2a46d18607b2
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),evolut algorithm tune,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,paper applic,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,applic evolut algorithm,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,oxid fuel cell,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,fuel cell sofc,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,paper applic evolut,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,cell sofc system,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,evolut algorithm,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,algorithm tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,evolut algorithm tune,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,algorithm tune,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),tune control,applic evolut,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,paper applic,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,applic evolut algorithm,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,oxid fuel cell,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,fuel cell sofc,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,paper applic evolut,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,cell sofc system,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,evolut algorithm,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,evolut algorithm tune,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,tune control,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,algorithm tune,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),algorithm tune control,applic evolut,1,0.0,2019.0,,c8204758-a222-4ecb-b3fb-6b201575ab83
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system research,concern power system,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system research,concern power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system research,power station,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system research,lfc power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),system research,power system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfc power,concern power system,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfc power,concern power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfc power,system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfc power,power station,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),lfc power,power system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power station,concern power system,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power station,concern power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power station,system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power station,lfc power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power station,power system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power,concern power system,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power,system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power,power station,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power,lfc power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power,power system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power system,concern power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power system,system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power system,power station,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power system,lfc power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),concern power system,power system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system research,concern power system,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system research,concern power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system research,system research,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system research,power station,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system research,lfc power,1,0.0,2016.0,,4ee749ae-f57d-476a-9a6c-0877c40dca2b
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow,power system steadyst,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow,analysi power system,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow,oper analysi power,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow,load flow analysi,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper analysi power,power system steadyst,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper analysi power,analysi power system,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper analysi power,load flow,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),oper analysi power,load flow analysi,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi power system,power system steadyst,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi power system,load flow,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi power system,oper analysi power,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),analysi power system,load flow analysi,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system steadyst,analysi power system,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system steadyst,load flow,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system steadyst,oper analysi power,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),power system steadyst,load flow analysi,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow analysi,power system steadyst,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow analysi,analysi power system,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow analysi,load flow,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf
+Systems and Control(91.55%) | Neural and Evolutionary Computing(73.75%) | Other Computer Science(66.65%),load flow analysi,oper analysi power,1,0.0,2020.0,,306b4c01-28fd-4f5d-ad88-aa34cd5807bf

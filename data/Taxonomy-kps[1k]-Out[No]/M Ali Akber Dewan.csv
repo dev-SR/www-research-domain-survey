@@ -1,0 +1,475 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),activ video,onlin learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),activ video,onlin learner,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),activ video,learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper suitabl,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ learner,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut learn,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ learner,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,onlin learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,activ video,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learner activ,onlin learner,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn institut,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,institut learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn environ,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,learn environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,learn environ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,learn institut learn,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,learn institut,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,environ learner,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,learner activ,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut learn environ,paper suitabl,1,0.0,2019.0,,c0d9736f-6a4e-4f5f-97e6-b749504b2f4b
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),role learn,environ onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),role learn,onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),role learn,onlin environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),role learn,onlin environ,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),role learn,environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,environ onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,role learn,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,onlin environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,onlin environ,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,onlin learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,activ video,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner,learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ onlin,environ onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ onlin,role learn,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ onlin,onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ onlin,onlin environ,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ onlin,environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin learner,role learn,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin learner,onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin learner,onlin environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin learner,onlin environ,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin learner,environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ,environ onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ,role learn,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ,onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ,onlin environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin environ,environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin,environ onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin,role learn,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin,onlin learner,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin,onlin environ onlin,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),environ onlin,onlin environ,1,0.0,2018.0,,1e38fa88-922b-470e-a290-dcad509052b8
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner activ,activ video,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner activ,onlin learner,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learner activ,learner activ,1,0.0,2019.0,,428bd7ba-2232-4dd4-b1c2-8fbb1905997d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method track,paper method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method track,paper method,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method track,motion featur,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method track,cell timelaps,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cell timelaps,paper method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cell timelaps,paper method,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cell timelaps,motion featur,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cell timelaps,method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,paper method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,motion featur,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,cell timelaps,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,detect classif,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,fundu imag,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method,method contextdepend,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method track,paper method,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method track,motion featur,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method track,cell timelaps,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method track,method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),motion featur,paper method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),motion featur,paper method,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),motion featur,cell timelaps,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),motion featur,method track,1,0.0,2011.0,,f8c2917e-c116-4c75-9286-4520030b0eed
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper method segment,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method segment nuclei,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),nuclei phasecontrast,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),phasecontrast imag,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),imag intens,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,paper method,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,nuclei phasecontrast,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,paper method segment,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,method segment nuclei,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,phasecontrast imag,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment nuclei,imag intens,1,0.0,2014.0,,f1a5c682-711d-477a-9042-9f1603e8c5f5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect classif,fundu imag,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect classif,method contextdepend,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect classif,paper method,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),fundu imag,detect classif,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),fundu imag,method contextdepend,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),fundu imag,paper method,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method contextdepend,detect classif,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method contextdepend,fundu imag,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method contextdepend,paper method,1,0.0,2017.0,,2e3e51dc-9159-4787-a723-5d794a265893
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit,system face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit,surveil applic,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit,target individu,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit,system face,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),surveil applic,system face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),surveil applic,face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),surveil applic,target individu,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),surveil applic,system face,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face,system face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face,surveil applic,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face,face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face,target individu,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face recognit,surveil applic,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face recognit,face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face recognit,target individu,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system face recognit,system face,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,system face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,surveil applic,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,face recognit,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,system face,1,0.0,2015.0,,53daa66e-7164-464e-9f34-434a638028c6
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,system architectur,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,biometr system,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,recognit ssfr,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),target individu,paper face recognit,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),recognit ssfr,system architectur,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),recognit ssfr,biometr system,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),recognit ssfr,paper face recognit,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),recognit ssfr,target individu,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),biometr system,system architectur,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),biometr system,recognit ssfr,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),biometr system,paper face recognit,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),biometr system,target individu,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system architectur,biometr system,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system architectur,recognit ssfr,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system architectur,paper face recognit,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system architectur,target individu,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper face recognit,system architectur,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper face recognit,biometr system,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper face recognit,recognit ssfr,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper face recognit,target individu,1,0.0,2016.0,,ef09084a-db0e-45e6-8543-c24da1f2bc56
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn role,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect onlin learn,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),educ system,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn student,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,learn role educ,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),onlin learn student,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,onlin learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,educ system,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,onlin learn role,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,detect onlin,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,detect onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,onlin learn,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),learn role educ,learn student,1,0.0,2019.0,,94c02f9a-53d6-4226-b1a5-9ba1d76b2b09
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),authorship classif,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),author text,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author text,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method author,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,research authorship,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),classif method author,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,classif method,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,authorship classif,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,method author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,classif method author,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),research authorship,author text,1,0.0,2021.0,,a9e213bc-e349-4c29-b0c7-4853732e68ea
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),review visual,visual system,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),review visual,system cours,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),review visual,cours discuss,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),review visual,paper review,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),review visual,discuss forum,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),discuss forum,visual system,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),discuss forum,system cours,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),discuss forum,cours discuss,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),discuss forum,review visual,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),discuss forum,paper review,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system cours,visual system,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system cours,cours discuss,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system cours,review visual,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system cours,paper review,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system cours,discuss forum,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours discuss,visual system,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours discuss,system cours,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours discuss,review visual,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours discuss,paper review,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours discuss,discuss forum,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper review,visual system,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper review,system cours,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper review,cours discuss,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper review,review visual,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper review,discuss forum,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),visual system,system cours,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),visual system,cours discuss,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),visual system,review visual,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),visual system,paper review,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),visual system,discuss forum,1,0.0,2019.0,,7bd9e2bf-60fe-494a-8670-7b5f2a444c0d
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect method,paper disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect method,disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect method,method network,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),detect method,paper disc,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc detect,detect method,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc detect,disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc detect,method network,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc detect,paper disc,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method network,paper disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method network,detect method,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method network,disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method network,paper disc,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),disc detect,paper disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),disc detect,detect method,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),disc detect,method network,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),disc detect,paper disc,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc,paper disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc,detect method,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc,disc detect,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper disc,method network,1,0.0,2018.0,,063414b0-656d-4fa3-925e-f8efec11bf10
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data pattern,amount data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data pattern,data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data pattern,promis data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data pattern,amount data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data learn,data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data learn,data pattern,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data learn,promis data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data learn,amount data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data,amount data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data,data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data,data pattern,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),amount data,promis data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),promis data,amount data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),promis data,data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),promis data,data pattern,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),promis data,amount data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data learn,amount data learn,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data learn,data pattern,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data learn,promis data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data learn,amount data,1,0.0,2020.0,,ea197df0-e435-44b2-9a0e-ea7d33777c4a
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data authent,gamelik captcha,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data authent,method data,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data authent,paper novel,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data authent,novel method,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper novel,data authent,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper novel,gamelik captcha,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper novel,method data,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),paper novel,novel method,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),gamelik captcha,data authent,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),gamelik captcha,method data,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),gamelik captcha,paper novel,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),gamelik captcha,novel method,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),novel method,data authent,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),novel method,gamelik captcha,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),novel method,method data,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),novel method,paper novel,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method data,data authent,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method data,gamelik captcha,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method data,paper novel,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),method data,novel method,1,0.0,2020.0,,6202fdd4-3e1a-48a3-ab1b-4728d1a3a865
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student cours,cours problem,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student cours,dropoutpron student,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student cours,institut educ,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut educ,cours problem,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut educ,dropoutpron student,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),institut educ,student cours,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours problem,dropoutpron student,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours problem,student cours,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),cours problem,institut educ,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),dropoutpron student,cours problem,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),dropoutpron student,student cours,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),dropoutpron student,institut educ,1,0.0,2015.0,,c34d89d4-a394-4805-a500-4bebc99da1c5
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm data,data structur,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm data,algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm data,student algorithm,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),algorithm data,data structur,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),algorithm data,student algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),algorithm data,student algorithm,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm,data structur,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm,algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),student algorithm,student algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data structur,algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data structur,student algorithm data,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),data structur,student algorithm,1,0.0,2018.0,,e677d703-17ab-4d51-9f46-44bc618799d9
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),comput tomographi,task comput,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),comput tomographi,lung segment,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),comput tomographi,segment task,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),lung segment,task comput,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),lung segment,segment task,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),lung segment,comput tomographi,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),task comput,lung segment,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),task comput,segment task,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),task comput,comput tomographi,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment task,task comput,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment task,lung segment,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),segment task,comput tomographi,1,0.0,2020.0,,adba5566-a0a6-479f-bb5e-696ead805a97
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),support system,face recognit safeti,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),support system,system surveil,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit safeti,support system,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),face recognit safeti,system surveil,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system surveil,support system,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465
+Computer Vision and Pattern Recognition(69.36%) | Graphics(68.89%) | Machine Learning(67.89%),system surveil,face recognit safeti,1,0.0,2013.0,,0e329df7-cb6f-4266-bba2-92769101e465

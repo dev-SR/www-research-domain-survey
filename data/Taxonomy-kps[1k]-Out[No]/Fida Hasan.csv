@@ -1,0 +1,875 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,sourc invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,voltag sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,voltag sourc,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,distribut network,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,instal paper,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,network voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,distribut network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),invert vsi,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,sourc invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,voltag sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,voltag sourc,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,sourc invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,voltag sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,distribut network,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,instal paper,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,network voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,distribut network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper oper,sourc invert vsi,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper oper,system voltag sourc,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper oper,system voltag,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper oper,voltag sourc invert,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag,sourc invert vsi,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag,system voltag sourc,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag,voltag sourc invert,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag,paper oper,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag sourc,sourc invert vsi,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag sourc,system voltag,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag sourc,voltag sourc invert,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system voltag sourc,paper oper,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,sourc invert vsi,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,system voltag sourc,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,system voltag,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,paper oper,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,voltag sourc,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,voltag distribut network,1,0.0,2016.0,,34ca70f4-9371-48c3-b9fb-2f8f1ed7949d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,thing platform,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,paper internet,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag sourc invert,internet thing,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,system voltag sourc,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,system voltag,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,voltag sourc invert,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,paper oper,1,0.0,2015.0,,38c29bbe-f7a3-4921-a50b-77a3766093ba
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,sourc invert,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,invert vsi,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,voltag sourc,1,0.0,2015.0,,fc89ac09-a2dc-47db-9dce-4e17b8a7d34f
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,voltag distribut network,1,0.0,2016.0,,34ca70f4-9371-48c3-b9fb-2f8f1ed7949d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,thing platform,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,paper internet,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc invert vsi,internet thing,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag distribut network,sourc invert vsi,1,0.0,2016.0,,34ca70f4-9371-48c3-b9fb-2f8f1ed7949d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag distribut network,voltag sourc invert,1,0.0,2016.0,,34ca70f4-9371-48c3-b9fb-2f8f1ed7949d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir voltag,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut network,distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut network,energi sourc,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut network,sourc distribut,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut,distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut,energi sourc,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sourc distribut,sourc distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power sourc,energi sourc,1,0.0,2013.0,,33504a80-d26f-460a-82fe-b4bfb61678a3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,power sourc,1,0.0,2013.0,,33504a80-d26f-460a-82fe-b4bfb61678a3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,sourc distribut,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,sourc distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,network distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,network distribut,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),energi sourc,distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,energi sourc,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,sourc distribut,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,sourc distribut network,1,0.0,2014.0,,19203055-2245-43df-9865-32fb31397d76
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag sourc,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),instal paper,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir voltag,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),sequenc threephas,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),threephas fourwir,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut network voltag,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,distribut network,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,sequenc threephas,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,sourc invert vsi,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,threephas fourwir,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,instal paper,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,distribut network voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,network voltag sourc,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,voltag sourc invert,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,threephas fourwir voltag,1,0.0,2016.0,,6a867050-d85b-4894-b760-8079c8e1670e
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,control threephas,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network voltag,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,distribut network,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,sourc invert,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,sourc invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,invert vsi,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,instal paper,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,network voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,distribut network voltag,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,voltag sourc invert,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),control threephas,voltag sourc,1,0.0,2016.0,,e3756d27-61e3-4667-80d0-0b90fe7e95d3
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper internet,sourc invert vsi,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper internet,thing platform,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper internet,voltag sourc invert,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper internet,internet thing,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,sourc invert vsi,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,thing platform,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,paper internet,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,voltag sourc invert,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,network data,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,time internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),internet thing,user time internet,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),thing platform,sourc invert vsi,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),thing platform,paper internet,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),thing platform,voltag sourc invert,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),thing platform,internet thing,1,0.0,2018.0,,2b56036d-2c5a-4c4a-b083-0545f00ef639
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network data,time internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network data,user time internet,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network data,internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time internet thing,network data,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time internet thing,user time internet,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time internet thing,internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),user time internet,network data,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),user time internet,time internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),user time internet,internet thing,1,0.0,2020.0,,9e713fa7-1c32-4fc1-bc6f-01ac83c6f8b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut,network distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut,distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut,energi sourc,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut system,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut singlephas,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system distribut,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut singlephas,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),fourwir distribut,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),load voltag,distribut system,1,0.0,2016.0,,fa0c10ea-6f4e-4458-adc8-66ac39e84929
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,load voltag,1,0.0,2016.0,,fa0c10ea-6f4e-4458-adc8-66ac39e84929
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,distribut system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,network distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,network distribut,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system,energi sourc,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,system distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,fourwir distribut system,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,system distribut singlephas,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),distribut system distribut,fourwir distribut,1,0.0,2018.0,,963376c2-eda4-48cc-b62a-efdb723f3b24
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut system,network distribut,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut system,distribut system,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network distribut system,energi sourc,1,0.0,2020.0,,60d42a35-58db-4fa6-938b-415c591f40a9
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport system,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),enabl technolog transport,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl technolog,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog transport,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport system,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system concept,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system concept,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc inform,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),field transport,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport system,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field transport,commun field,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,advanc inform,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,field transport system,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,transport system concept,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun field,commun field transport,1,0.0,2019.0,,2ae42413-ccff-4b6b-9e84-2ff8c17ae69b
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network enabl,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron network,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,accur time,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time synchron,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,enabl technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,technolog transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,transport system,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,network enabl,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,accur time synchron,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,time synchron network,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,network enabl technolog,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),accur time,technolog transport,1,0.0,2020.0,,0b7aa092-2436-4acc-9b98-16cab235b5e4
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),servic decis road,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud technolog,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),cloud technolog offer,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog offer strength,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength comput,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput servic,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),comput servic decis,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),transport safeti comfort,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),decis road transport,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),advanc cloud,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),offer strength,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,advanc cloud,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,cloud technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,servic decis road,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,strength comput servic,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,decis road transport,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,technolog offer,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,comput servic decis,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,technolog offer strength,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,transport safeti comfort,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,offer strength comput,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),strength comput,advanc cloud technolog,1,0.0,2016.0,,c26e9441-0c24-407d-9a8c-078ceb781866
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system environ,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron establish,oper network,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron establish,oper network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron establish,node network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron establish,network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron establish,time synchron,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),node network system,time synchron establish,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),node network system,oper network,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),node network system,oper network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),node network system,network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),node network system,time synchron,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network,time synchron establish,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network,oper network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network,node network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network,network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network,time synchron,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,time synchron establish,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,oper network,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,oper network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,node network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network system,time synchron establish,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network system,oper network,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network system,oper network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network system,node network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network system,time synchron,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network system,time synchron establish,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network system,oper network,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network system,node network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network system,network system,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper network system,time synchron,1,0.0,2018.0,,4ced664c-d680-4f2e-946b-827780276f07
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network vanet,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),oper system,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system environ,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),adhoc network,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,synchron oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron oper,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,time synchron oper,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,oper system,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,adhoc network vanet,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,adhoc network,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,oper system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,time synchron,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron oper system,system environ,1,0.0,2018.0,,dcce685f-f34f-44f3-a5cc-9d4852e14a25
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power,system industri,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power,paper power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power,power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power,power gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power,gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),gener system,system industri,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),gener system,paper power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),gener system,power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),gener system,power gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),gener system,paper power,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener system,system industri,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener system,paper power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener system,power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener system,gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener system,paper power,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener,system industri,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener,paper power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener,power gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener,gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power gener,paper power,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system industri,paper power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system industri,power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system industri,power gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system industri,gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system industri,paper power,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power gener,system industri,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power gener,power gener,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power gener,power gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power gener,gener system,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),paper power gener,paper power,1,0.0,2012.0,,418e7234-30f5-4d4f-97ea-b6caa84971b0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur measur,pressur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur measur,system blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur measur,blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur measur,measur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur measur,system blood,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood pressur,pressur measur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood pressur,pressur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood pressur,blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood pressur,measur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood pressur,system blood,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),measur system,pressur measur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),measur system,pressur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),measur system,system blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),measur system,blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),measur system,system blood,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur system,pressur measur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur system,system blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur system,blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur system,measur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),pressur system,system blood,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),blood pressur,pressur measur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),blood pressur,pressur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),blood pressur,system blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),blood pressur,measur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),blood pressur,system blood,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood,pressur measur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood,pressur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood,system blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood,blood pressur,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system blood,measur system,1,0.0,2012.0,,c9665f2b-0e21-4a77-b3df-edd27596590d
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time,studi time synchronis,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time,commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time,issu commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time,requir time synchron,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time,requir time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),issu commun network,studi time synchronis,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),issu commun network,studi time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),issu commun network,commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),issu commun network,requir time synchron,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),issu commun network,requir time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time,studi time synchronis,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time,studi time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time,commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time,issu commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time,requir time synchron,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time synchron,studi time synchronis,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time synchron,studi time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time synchron,commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time synchron,issu commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),requir time synchron,requir time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time synchronis,studi time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time synchronis,commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time synchronis,issu commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time synchronis,requir time synchron,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),studi time synchronis,requir time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun network,studi time synchronis,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun network,studi time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun network,issu commun network,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun network,requir time synchron,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),commun network,requir time,1,0.0,2018.0,,bbb8d804-c92c-4a77-93a9-b4cd3a71d6c8
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit system,satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit system,navig satellit,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit system,satellit system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit system,system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system,navig satellit,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system,navig satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system,satellit system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system,system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system gnss,satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system gnss,navig satellit,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system gnss,navig satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),satellit system gnss,system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system gnss,satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system gnss,navig satellit,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system gnss,navig satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system gnss,satellit system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit,satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit,navig satellit system,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit,satellit system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),navig satellit,system gnss,1,0.0,2016.0,,56677a46-d70d-4619-b05c-972e1c68c636
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),trypsin chymotrypsin,muscl protein,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),trypsin chymotrypsin,protein pepsin,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),trypsin chymotrypsin,hydrolys sph,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),protein pepsin,trypsin chymotrypsin,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),protein pepsin,muscl protein,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),protein pepsin,hydrolys sph,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),muscl protein,trypsin chymotrypsin,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),muscl protein,protein pepsin,1,0.0,2015.0,,714c9d72-f070-435b-962a-139b283f0744
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),muscl protein,hydrolys sph,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),hydrolys sph,trypsin chymotrypsin,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),hydrolys sph,muscl protein,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+General Literature(64.5%) | Cryptography and Security(51.97%) | Computational Geometry(37.46%),hydrolys sph,protein pepsin,1,0.0,2016.0,,7a70b7e3-7033-4472-b4d2-1cf02f16e7d6
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground,voltag rise,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground,lowvoltag network,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground,network ground voltag,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground voltag,voltag rise,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground voltag,lowvoltag network,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network ground voltag,network ground,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag rise,lowvoltag network,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag rise,network ground,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),voltag rise,network ground voltag,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),lowvoltag network,voltag rise,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),lowvoltag network,network ground,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),lowvoltag network,network ground voltag,1,0.0,2018.0,,4a07c1e9-8704-4439-9656-4aadb885b60c
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system oper control,power system oper,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),system oper control,concern power system,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power system oper,concern power system,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),power system oper,system oper control,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),concern power system,power system oper,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),concern power system,system oper control,1,0.0,2013.0,,6560e9a5-775a-460d-9a81-e0ccdb870662
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron commun,synchron commun network,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),time synchron commun,network time frame,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron commun network,time synchron commun,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),synchron commun network,network time frame,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network time frame,synchron commun network,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),network time frame,time synchron commun,1,0.0,2018.0,,dcb2ded9-3719-4adc-ab40-f1a8df3afe71
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog futur,applic decis,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),technolog futur,intellig ai technolog,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),intellig ai technolog,applic decis,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),intellig ai technolog,technolog futur,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),applic decis,technolog futur,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0
+Cryptography and Security(90.82%) | Symbolic Computation(83.12%) | Information Theory(68.67%),applic decis,intellig ai technolog,1,0.0,2021.0,,7ee1d35d-44db-443c-b199-c43a372d64c0

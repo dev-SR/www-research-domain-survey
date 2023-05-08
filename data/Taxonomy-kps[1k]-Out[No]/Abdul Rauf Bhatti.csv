@@ -1,0 +1,529 @@
+domain,node,neighbor,weight,node_year,neighbor_year,node_paper_id,neighbor_paper_id
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil system,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,power system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system,oper power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power station,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),entiti power system,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc energi,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,energi entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,entiti power,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,power station,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,entiti power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,sourc energi,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,power system,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi entiti power,energi entiti,1,0.0,2013.0,,faca7425-562c-45b0-a82c-fe12ddaba7dc
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag load,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system disturb,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system stabil,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system stabil,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,system stabil system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,power system,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,voltag load,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,power system stabil,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),stabil system,system disturb,1,0.0,2016.0,,290d2f12-57e4-4658-a8e1-aaa932061046
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper,power system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper,power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper,oper power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system oper,power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system oper,system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power system oper,oper power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper power system,power system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper power system,power system,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper power system,system oper,1,0.0,2020.0,,5665b165-a9cd-4489-9065-77164ec3dafb
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,perform energi,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,perform energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,energi system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,output energi,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system,output energi system,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi energi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi crisi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag energi system,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system energi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system energi crisi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,energi cost,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),crisi energi,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,system energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,energi crisi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,manag energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,energi system,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,energi system energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,energi crisi energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi cost,manag energi,1,0.0,2011.0,,d8611b7e-4d5e-4438-a73c-c82d81bca3c0
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi system,perform energi,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi system,energi system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi system,energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi system,system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system batteri,perform energi,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system batteri,perform energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system batteri,energi system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system batteri,energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi,perform energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi,energi system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi,energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),perform energi,system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system batteri,perform energi,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system batteri,perform energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system batteri,energi system,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi system batteri,system batteri,1,0.0,2019.0,,0aac04e7-2830-4b09-a28c-ed096e805dd2
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),output energi,output energi system,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),output energi,energi system,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),output energi system,output energi,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),output energi system,energi system,1,0.0,2021.0,,3c904527-3f85-45f5-a223-a1d7f8f2a224
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),scheme vehicl,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,energi manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,manag strategi energi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,studi applic,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag,strategi energi system,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme vehicl,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi manag,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag scheme,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag scheme,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi storag,paper energi,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,paper energi manag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,energi storag,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,energi manag scheme,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),paper energi,manag scheme vehicl,1,0.0,2016.0,,5260dbc0-a61c-4a1d-b8eb-ad1f72adfc18
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,scheme vehicl,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,work energi,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,energi manag scheme,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,manag scheme vehicl,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi manag,manag scheme,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,scheme vehicl,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,work energi manag,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,energi manag scheme,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,manag scheme vehicl,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),work energi,manag scheme,1,0.0,2018.0,,b134e139-b08d-4505-922f-429c8df37c9b
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag strategi,energi manag,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag strategi,manag strategi energi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag strategi,studi applic,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag strategi,manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi manag strategi,strategi energi system,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi energi,energi manag,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi energi,energi manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi energi,studi applic,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi energi,manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi energi,strategi energi system,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),studi applic,energi manag,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),studi applic,energi manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),studi applic,manag strategi energi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),studi applic,manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),studi applic,strategi energi system,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),strategi energi system,energi manag,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),strategi energi system,energi manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),strategi energi system,manag strategi energi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),strategi energi system,studi applic,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),strategi energi system,manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi,energi manag,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi,energi manag strategi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi,manag strategi energi,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi,studi applic,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),manag strategi,strategi energi system,1,0.0,2021.0,,d14e4fd5-ff19-4aae-b526-eb9541fad5df
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil challeng,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),voltag profil,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),challeng distribut system,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),live standard,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),reduct power,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),profil challeng distribut,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system oper live,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,power loss,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),oper live standard,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,challeng distribut system,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,system oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,voltag profil,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,profil challeng distribut,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,oper live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,oper live,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,voltag profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,profil challeng,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,reduct power,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power loss,live standard,1,0.0,2021.0,,314cc096-663a-4e9e-a28b-30a6f5eff122
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi build,netzero energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi build,energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi build,energi energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi build,energi energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),load energi,energi sourc,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),load energi,sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),load energi,power grid,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),load energi,energi sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power grid,energi sourc,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power grid,sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power grid,load energi,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power grid,energi sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc power,energi sourc,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc power,sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc power,power grid,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc power,load energi,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc power,energi sourc,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc power,power grid,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc power,load energi,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc power,energi sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,power grid,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,load energi,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,energi sourc power,1,0.0,2018.0,,e6b53f11-9fde-46d5-b0b3-65f6d8a245d6
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,netzero energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,energi build,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,energi energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi sourc,energi energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),netzero energi,energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),netzero energi,energi build,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),netzero energi,energi energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),netzero energi,energi energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi,netzero energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi,energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi,energi build,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi,energi energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi sourc,netzero energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi sourc,energi sourc,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi sourc,energi build,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),energi energi sourc,energi energi,1,0.0,2021.0,,891b30e8-eda8-417e-b159-fc3b6701c293
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method energi,power csp,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method energi,help power,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method energi,method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method energi,energi method,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method,power csp,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method,energi method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method,help power,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),energi method,method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),method energi,power csp,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),method energi,energi method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),method energi,help power,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),method energi,energi method,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),power csp,energi method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),power csp,help power,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),power csp,method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),power csp,energi method,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),help power,power csp,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),help power,energi method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),help power,method energi,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Digital Libraries(22.98%) | Computational Geometry(20.38%) | Systems and Control(19.24%),help power,energi method,1,0.0,2019.0,,f525f9f1-34b9-4e5c-b866-c5d7142050a1
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system subsystem,system architectur,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system subsystem,understand system,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system subsystem,system architectur control,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),understand system,system architectur,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),understand system,system architectur control,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),understand system,system subsystem,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur control,system architectur,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur control,understand system,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur control,system subsystem,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur,understand system,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur,system architectur control,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),system architectur,system subsystem,1,0.0,2017.0,,bf09d96a-813c-462d-9a3e-f30b7a9ff427
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),sourc photovolta,power gener,1,0.0,2016.0,,769a9437-b6db-413a-8044-0252b337dff3
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power gener,sourc photovolta,1,0.0,2016.0,,769a9437-b6db-413a-8044-0252b337dff3
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power gener,fossilfuel energi,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power gener,adopt power,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),adopt power,fossilfuel energi,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),adopt power,power gener,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),fossilfuel energi,adopt power,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),fossilfuel energi,power gener,1,0.0,2020.0,,2adbe8e7-d3c6-4d2a-a8f4-f15be0971bbe
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),paracoccu marginatu,papaya mealybug,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),paracoccu marginatu,mealybug paracoccu,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),mealybug paracoccu,paracoccu marginatu,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),mealybug paracoccu,papaya mealybug,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),papaya mealybug,paracoccu marginatu,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Systems and Control(69.97%) | Cryptography and Security(45.51%) | Mathematical Software(39.0%),papaya mealybug,mealybug paracoccu,1,0.0,2016.0,,059ee14c-6de7-4f4f-8a93-cd6e42eaff5e
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),distribut system,power failur,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),distribut system,consum power,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),consum power,power failur,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),consum power,distribut system,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power failur,distribut system,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Emerging Technologies(74.01%) | Systems and Control(67.05%) | Other Computer Science(66.39%),power failur,consum power,1,0.0,2016.0,,c93fa61d-b94b-47e3-ad24-f7117dec262f
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),solut vehicl,charg vehicl,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),solut vehicl,vehicl problem,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),charg vehicl,vehicl problem,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),charg vehicl,solut vehicl,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),vehicl problem,charg vehicl,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
+Databases(35.32%) | Systems and Control(27.45%) | Multimedia(27.23%),vehicl problem,solut vehicl,1,0.0,2021.0,,adf200be-6fcf-4504-a867-bb6dcddaf67a
